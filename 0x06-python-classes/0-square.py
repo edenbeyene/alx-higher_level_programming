@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""Square related feature module."""
+"""Define an empty class square."""
+
+
 class Square:
-    """Represents an empty square."""
+    """An empty class square."""
     pass
