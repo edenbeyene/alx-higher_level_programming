@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 """
 Module 1-rectangle
-Define class Rectangle with private attribute size
+Defines a Rectangle class.
 """
+
 
 
 class Rectangle:

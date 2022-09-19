@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-"""Square related feature module."""
-"""Define an empty class square."""
+"""
+Module 0-rectangle
+Defines an empty class called Rectangle
+"""
 
 
 class Rectangle:
